@@ -30,12 +30,12 @@ div.apresentacao-site {
 }
 
 header.cabecalho {
-    text-align: left;
     padding: 20px;
 }
 
 li.opcao-menu {
     display: inline-block;
+    padding-left: 40px;
 }
 
 li.opcao-menu > a {
@@ -43,7 +43,6 @@ li.opcao-menu > a {
     text-decoration: none;
     font-weight: 600;
     font-size: 1em;
-    padding-left: 40px;
 }
 
 li.opcao-menu > a:hover {
